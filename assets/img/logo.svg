@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 56" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Crystal Clear Cleaners</title>
+  <defs><linearGradient id="d1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F7FBFF"/><stop offset="55%" stop-color="#89CFF0"/><stop offset="100%" stop-color="#0E8C8C"/></linearGradient></defs>
+  <g transform="translate(4,4)">
+    <polygon points="24,2 44,18 36,46 12,46 4,18" fill="url(#d1)" stroke="#0A4A52" stroke-width="1.2"/>
+    <polyline points="24,2 24,46" fill="none" stroke="#F7FBFF" stroke-width="0.8" opacity="0.7"/>
+    <polyline points="4,18 44,18" fill="none" stroke="#F7FBFF" stroke-width="0.8" opacity="0.55"/>
+  </g>
+  <text x="58" y="24" font-family="Syne, Georgia, serif" font-size="16" font-weight="700" fill="#0A4A52">Crystal Clear</text>
+  <text x="58" y="42" font-family="Manrope, sans-serif" font-size="11" font-weight="500" fill="#0E8C8C">Cleaners · Tanya Martin</text>
+</svg>
