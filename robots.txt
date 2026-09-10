@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faithfulbooks316.github.io/tanya.martin/sitemap.xml

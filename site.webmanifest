@@ -1,0 +1,15 @@
+{
+  "name": "Crystal Clear Cleaners",
+  "short_name": "Crystal Clear",
+  "start_url": "./index.html",
+  "display": "browser",
+  "background_color": "#F7FBFF",
+  "theme_color": "#0A4A52",
+  "icons": [
+    {
+      "src": "./assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
